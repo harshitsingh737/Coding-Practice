@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Calculate total sundays
+
 int main()
 {
     string s;
